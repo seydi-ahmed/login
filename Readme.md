@@ -1,6 +1,11 @@
 # login
 
 ## changer le mot de passe
-- sudo passwd
-- saisir le mot de passe actuel
-- entrez "michelle" pour le nouveau mot de passe
+- simple
+    - sudo passwd
+    - saisir le mot de passe actuel
+    - entrez  le nouveau mot de passe
+- root
+    - sudo passwd root
+    - saisir le mot de passe actuel
+    - entrez le nouveau mot de passe
