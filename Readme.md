@@ -27,3 +27,6 @@
 
 ## afficher l'id de l'utilisateur actuel
 - id
+
+## trouver le PID d'un programme (ex. bash)
+- pgrep bash
