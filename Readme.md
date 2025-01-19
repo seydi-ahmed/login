@@ -9,3 +9,7 @@
     - sudo passwd root
     - saisir le mot de passe actuel
     - entrez le nouveau mot de passe
+
+## effacer la console par un raccourci clavier
+- ctrl + L
+
