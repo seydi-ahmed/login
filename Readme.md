@@ -13,3 +13,8 @@
 ## effacer la console par un raccourci clavier
 - ctrl + L
 
+## afficher l'historique des commandes en utilisant 5 frappes ou moins (avec autocomplétion)
+- history + tabulation
+
+## se déconnecter avec un raccourci clavier
+- ctrl + D
