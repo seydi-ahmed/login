@@ -22,3 +22,8 @@
 ## vérifier la coonectivité internet avec ping
 - ping google.com
 
+## trouver l'inode d'un fichier
+- ls -i chemin_du_fichier
+
+## afficher l'id de l'utilisateur actuel
+- id
