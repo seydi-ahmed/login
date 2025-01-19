@@ -30,3 +30,7 @@
 
 ## trouver le PID d'un programme (ex. bash)
 - pgrep bash
+
+## developer
+- Name: Mouhamed DIOUF
+- email: diouf.mouhamed3@ugb.edu.sn
