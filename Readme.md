@@ -18,3 +18,7 @@
 
 ## se déconnecter avec un raccourci clavier
 - ctrl + D
+
+## vérifier la coonectivité internet avec ping
+- ping google.com
+
