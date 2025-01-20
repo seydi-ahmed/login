@@ -1,5 +1,4 @@
-# login
-
+# login(2e projet de la branche sysadmin de zone01 dakar)
 ## changer le mot de passe
 - simple
     - sudo passwd
