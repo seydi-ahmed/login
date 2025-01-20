@@ -26,6 +26,9 @@
 
 ## afficher l'id de l'utilisateur actuel
 - id
+    - uid : identifiant unique de l'utilisateur dans le systéme
+    - gid : identifiant dans le groupe principal
+    - groups : l'ensemble des groupes dans lequel il appartient
 
 ## trouver le PID d'un programme (ex. bash)
 - pgrep bash
