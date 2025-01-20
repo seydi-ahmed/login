@@ -32,6 +32,7 @@
 
 ## trouver le PID d'un programme (ex. bash)
 - pgrep bash
+    - PID : Process Identifier (un identifiant accordé à un processus en cours)
 
 ## developer
 - Name: Mouhamed DIOUF
