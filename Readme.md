@@ -13,7 +13,7 @@
 - ctrl + L
 
 ## afficher l'historique des commandes en utilisant 5 frappes ou moins (avec autocomplétion)
-- history + tabulation
+- histo + tabulation + entrée
 
 ## se déconnecter avec un raccourci clavier
 - ctrl + D
