@@ -23,6 +23,7 @@
 
 ## trouver l'inode d'un fichier
 - ls -i chemin_du_fichier
+    - permet de retrouver le chemin d'un fichier à partir de d'un numéro (méta donné du fichier)
 
 ## afficher l'id de l'utilisateur actuel
 - id
